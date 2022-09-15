@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137036153437",
+    "project_id": "fotopaylas-42749",
+    "storage_bucket": "fotopaylas-42749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137036153437:android:ee039884260954d71d83b4",
+        "android_client_info": {
+          "package_name": "com.example.fotopaylas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137036153437-t1hpbo93g075b45ou3supt0u6eq5huqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbE0SEnH_-8gVfHjLF9x5_R7EtOr6S07o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137036153437-t1hpbo93g075b45ou3supt0u6eq5huqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
